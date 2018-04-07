@@ -1,2 +1,0 @@
-# SoundVisor
-Practica Tecnología multimedia
